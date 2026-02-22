@@ -21,9 +21,10 @@
 ---
 
 ## 🌐 Connect With Me  
-- [LinkedIn](https://www.linkedin.com/in/mbulelo-p-peyi/)  
+- [LinkedIn](https://www.linkedin.com/in/mbulelo-peyi/)  
 - [GitHub](https://github.com/Mbulelo-Peyi)  
-- [npm](https://www.npmjs.com/~mbulelo-p-peyi)  
+- [npm](https://www.npmjs.com/~mbulelo-p-peyi)
+- [portfolio](https://portfilio-qcoj.onrender.com/)
 
 ---
 ⭐️ *Always learning, always building.*
